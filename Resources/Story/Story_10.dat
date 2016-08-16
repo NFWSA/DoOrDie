@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>speech0</key>
+	<dict>
+		<key>background</key>
+		<string>UI/Story/bg10-1.png</string>
+		<key>text0</key>
+		<string>第10天过去了，调查没什么实质性进展。</string>
+		<key>text1</key>
+		<string>山谷那边是丘陵，种着各种作物。</string>
+		<key>text2</key>
+		<string>虽说不知道谁种的，但以此为依托，小镇上的食物得到了保障。</string>
+		<key>text3</key>
+		<string>傍晚回来的路上，我们发现一条不起眼的小路，被灌木丛挡着。</string>
+		<key>text4</key>
+		<string>好奇心驱使我们前去探索。</string>
+		<key>text5</key>
+		<string>走着走着，我们发现一处废墟，旁边趴着一个壮汉。</string>
+		<key>text6</key>
+		<string>他昏倒了，脉搏还在。我给他喂了点水。</string>
+		<key>text7</key>
+		<string>不一会，他醒了过来，见到我如救命稻草，死死抓住我衣服不放。</string>
+		<key>text8</key>
+		<string>于是我把他带上了。回到住处，他给了我张字条，说是捡到的。</string>
+		<key>text9</key>
+		<string>上面写着："满月之日，不要..."后面的字看不清了。</string>
+		<key>text10</key>
+		<string>也许，山谷另一边，满月之日，会有有趣的事情发生哦。</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>speech0</key>
+	<dict>
+		<key>background</key>
+		<string>UI/Story/bg1-0.png</string>
+		<key>text0</key>
+		<string>主角Kevin带着xx博士研制的“生命体征监测仪”来到A国北部神秘小镇调查失踪事件。</string>
+		<key>text1</key>
+		<string>小镇的另一边是山谷，仿佛多看一眼就要被吸进去一样。</string>
+		<key>text2</key>
+		<string>路旁不是很亮的灯光，让人有一丝淡淡的不安。</string>
+	</dict>
+	<key>speech1</key>
+	<dict>
+		<key>background</key>
+		<string>UI/Story/bg1-1.png</string>
+		<key>text0</key>
+		<string>镇上十分安静，少有人在街上走动。</string>
+		<key>text1</key>
+		<string>到达目的地，一轮弯月挂在天上。时间不早了，还是先找个地方住下再作打算。</string>
+		<key>text2</key>
+		<string>故事将从这里开始............</string>
+	</dict>
+	<key>speech2</key>
+	<dict>
+		<key>background</key>
+		<string>UI/Story/bg1-2.png</string>
+		<key>text0</key>
+		<string>失踪从第一天就开始了…准确说在我到达之前就开始了…已经开始了多久呢？</string>
+		<key>text1</key>
+		<string>这里的人们全都一脸茫然，眼神空洞…</string>
+		<key>text2</key>
+		<string>除了那个收留我的小孩子。她妈妈出去找吃的，已经25天没回来了…</string>
+	</dict>
+</dict>
+</plist>

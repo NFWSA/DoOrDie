@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>day1</key>
+	<dict>
+		<key>filename</key>
+		<string>Story_01.dat</string>
+	</dict>
+	<key>day5</key>
+	<dict>
+		<key>filename</key>
+		<string>Story_05.dat</string>
+	</dict>
+	<key>day10</key>
+	<dict>
+		<key>filename</key>
+		<string>Story_10.dat</string>
+	</dict>
+	<key>day15</key>
+	<dict>
+		<key>filename</key>
+		<string>Story_15.dat</string>
+	</dict>
+	<key>day19</key>
+	<dict>
+		<key>filename</key>
+		<string>Story_19.dat</string>
+	</dict>
+	<key>day29</key>
+	<dict>
+		<key>filename</key>
+		<string>Story_29.dat</string>
+	</dict>
+	<key>day35</key>
+	<dict>
+		<key>filename</key>
+		<string>Story_35.dat</string>
+	</dict>
+</dict>
+</plist>

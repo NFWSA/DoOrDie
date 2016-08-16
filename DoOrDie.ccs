@@ -1,0 +1,44 @@
+<Solution>
+  <PropertyGroup Name="DoOrDie" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Data">
+          <Folder Name="UI">
+            <Folder Name="withcsb">
+              <Image Name="role1.png" />
+              <Image Name="role1-click.png" />
+              <Image Name="role2.png" />
+              <Image Name="role2-click.png" />
+              <Image Name="role3.png" />
+              <Image Name="role3-click.png" />
+              <Image Name="button-normal.png" />
+              <Image Name="button-click.png" />
+              <Image Name="button-disable.png" />
+              <Image Name="button-item-normal.png" />
+              <Image Name="button-item-click.png" />
+              <Image Name="button-item-disable.png" />
+              <Image Name="bg.png" />
+              <Image Name="pause01.png" />
+              <Image Name="pause02.png" />
+              <Image Name="progressBar-better.png" />
+              <Image Name="progressBar-normal.png" />
+              <Image Name="progressBar-red.png" />
+              <TTF Name="button-font.TTF" />
+            </Folder>
+            <Folder Name="Button">
+              <Image Name="Pause.png" />
+              <Image Name="Pause_Click.png" />
+            </Folder>
+          </Folder>
+        </Folder>
+        <Project Name="ExploreUI.csd" Type="Layer" />
+        <Project Name="ItemList.csd" Type="Layer" />
+        <Project Name="MakeList.csd" Type="Layer" />
+        <Project Name="Scene.csd" Type="Scene" />
+        <Project Name="SurvivalBG.csd" Type="Layer" />
+        <Project Name="SurvivalUI.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

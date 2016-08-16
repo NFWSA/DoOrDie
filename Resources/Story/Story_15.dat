@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>speech0</key>
+	<dict>
+		<key>background</key>
+		<string>UI/Story/bg15-1.png</string>
+		<key>text0</key>
+		<string>天色开始渐渐变得有些暗了，还刮起了风。</string>
+		<key>text1</key>
+		<string>直觉告诉我，是时候收集一些粮食了。</string>
+	</dict>
+</dict>
+</plist>

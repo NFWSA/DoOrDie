@@ -1,0 +1,4 @@
+proj.ios_mac/
+proj.android/
+proj.win32/Debug*
+proj.win32/Release*

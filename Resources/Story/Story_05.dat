@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>speech0</key>
+	<dict>
+		<key>background</key>
+		<string>UI/Story/bg5-1.png</string>
+		<key>text0</key>
+		<string>5天之后，外面忽然几乎看不到什么人了。这情况不妙，让人有点发毛。</string>
+		<key>text1</key>
+		<string>这情况不妙，有点让人发毛。</string>
+		<key>text2</key>
+		<string>路上有个哭哭啼啼的女人，我赶紧过去询问状况。</string>
+		<key>text3</key>
+		<string>她丈夫每天去山谷那边采集食物，然而昨天没有回来，她知道他也许再也不会回来了。</string>
+		<key>text4</key>
+		<string>怜悯之心让我带着她一起行动。多一个人，多一分希望。</string>
+		<key>text5</key>
+		<string>我们的目标转向那空洞山谷的另一边。或许这是个突破口。</string>
+	</dict>
+</dict>
+</plist>

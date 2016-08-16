@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="35" tilewidth="32" tileheight="32" nextobjectid="8">
+ <tileset firstgid="1" name="Map2" tilewidth="32" tileheight="32" tilecount="1296">
+  <image source="Tiled/Map2.png" width="1536" height="864"/>
+ </tileset>
+ <tileset firstgid="1297" name="MetaFog" tilewidth="32" tileheight="32" tilecount="12">
+  <image source="Tiled/MetaFog.png" width="128" height="96"/>
+  <tile id="1">
+   <properties>
+    <property name="Damage" value="5"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="Item" value="food1"/>
+    <property name="Number" value="1"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="Collision" value="True"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="Item" value="map"/>
+    <property name="Number" value="1"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="Item" value="stone"/>
+    <property name="Number" value="1"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="Item" value="water"/>
+    <property name="Number" value="2"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="Item" value="wood"/>
+    <property name="Number" value="2"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="Item" value="food3"/>
+    <property name="Number" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="1309" name="Item" tilewidth="32" tileheight="32" tilecount="64">
+  <image source="Tiled/Item.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Background" width="50" height="35">
+  <data encoding="base64" compression="zlib">
+   eJytWNuR00AQlGuVBJAEkAWQBJAHiYB8dw7gAoAQ4Hg4AAKAGHw+VlWaqla7e3YFfEzZGo12p+fRO9JUhmGqsq9yVeV6uWbZb9DHWko3r3+T3FO2h0Wy9e4WQZvQfazySej5GaWbhG7fuHdVcsz4DNucqryv8gHsTov8qvJb6EOU/k7o5/9Px2F4VuX5eHkPsaCfzi+F412Vz1W+kD/3Vc5VHjbqGev98vu6+v+mytvx8h76Hn5OiV8Kx+2CBeWnEIxZxClqF+1ujbhYDONljFWe8RmFg/uJr7E2OU6uD12fOuFnHN7d+Hc4sLc4/64PHY4WbzHHMa6t+TiUNZdxvas9EaviUYcx6hO5TNkFjkc1LY+rPBnaOI6wt6tN5b/D6TBifSJXqViEDy+q/y+rvOrAMddgq557BTEiz0xwL/QRN1eXGM+euppxKDvM6bH0CWKK/RnDmXT/AwfWDPcA5tRxm4sB54lrNeOHqPUeHFzvzOUZn/ZwUvii8oSSzVctHK1ezPj20IGhB3/gy3LSwqF6kevY1W0rT3g/83E35jWp6grntZuieRXzg88qTs3OPTfTol3o0C/Vdw9lHWuc17K8Z704//IZpnBELpHrXH2hX9/q9fcqP5L11X5ZnJTtjCnOMJcTzCefX72xG5YZ/2tZYwuu6MGRzYzYT6eS102ch4jX+RZ9gu9GCttsczQ4sD6jt1zNq57KuD/eKwKL8y1+MT/ONuYOxoH1ifMJcobq/cz/Y1nPOSexhsLBXJvlxM3+yBE4MzJX9fi/o/2CP1s4jmXNtVlOWmePOuO3+K9itxvz9yP0j22R81R9sW/sf08fo/9Z7CZa09ni+3/cR85TMVJnm3qncByDccZzX805alaPb0sKkzqHHXY3h3AvZ3F2+yEO9iH2i29LPTgiHspW1VA2Z+A5rmYznmlmHXI6+oU2/4oj9sxmB3y3w3Nc5U7pkNNxzgk7x8VbcMS+2EeteRO/wfEM1qNjH7EGszrMajyroy36YVzv5XjczVVRk8wT4S9yfy8OdfZdd+iz71vZGcR8rHxFrNGjiCN7P3Sc7PSqx9BHhZP5Aq9VzLFHVT4wpsgve7OX4mo1n7vvW+p55C7GkeHD8wP5Evmlh1+5Z52P56L3a/GCWwtxZN+2na/Zt/BBrLnFpx4eVM/9ARzj0JQ=
+  </data>
+ </layer>
+ <layer name="Item" width="50" height="35">
+  <data encoding="base64" compression="zlib">
+   eJzt2DkKgDAUhOHX5CDaKbjva6f3P5LTWyiKEob56jR/IFPE7FrmzHJ346DnOjT0BB1/S3BnKcG9NWhoCTpE5J0FO7ASbMGGhp2gQ0S+U2EjaoKdmNAwE3SIiMhZgX0vCTZ+QMNI0CHigwBvKSR4TxEaYoIO4ad/smcOWjAGdw==
+  </data>
+ </layer>
+ <layer name="Meta" width="50" height="35">
+  <data encoding="base64" compression="zlib">
+   eJztmEsKgDAMBbvJBfx7/4uKxIIW0SbGmtQMvJ3YjK0PMYR7JsBYpQGMFY8OMCnRQ3KNs3VSZsDkXp+u8SYlPLgzWacWD+cIdV9j70h1jxRPPIYt1uF6aN1TKrV4OM4VlO+cM1rASEOdS8qDco+cjng6FxdpD+fIV/sqTS0eThksd8UImBXtHlez7T2089Uz5nRayS7MPX+1eGimB4x1rHm8fUZLnc1cD+57qe0dk+iXv/8n47IAYeANMQ==
+  </data>
+ </layer>
+ <layer name="Fog" width="50" height="35">
+  <data encoding="base64" compression="zlib">
+   eJztwzENAAAMA6A+E1D/ZutgCiChl1RVVVVVVVV9D72plmU=
+  </data>
+ </layer>
+ <objectgroup name="Objects">
+  <object id="1" name="Player" x="652" y="380" width="10" height="12">
+   <properties>
+    <property name="BGM" value="Sound/0004.mp3"/>
+    <property name="Time" value="90.0"/>
+   </properties>
+  </object>
+  <object id="2" name="Enemy" x="995" y="1030" width="14" height="15">
+   <properties>
+    <property name="EnemyFile" value="Enemy/snake.dat"/>
+   </properties>
+  </object>
+  <object id="6" name="Enemy" x="58" y="194" width="31" height="26">
+   <properties>
+    <property name="EnemyFile" value="Enemy/snake.dat"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

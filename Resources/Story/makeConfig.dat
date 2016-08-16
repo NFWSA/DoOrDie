@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>base</key>
+	<dict>
+		<key>cook1</key>
+		<dict>
+			<key>wood</key>
+			<integer>4</integer>
+			<key>stone</key>
+			<integer>2</integer>
+		</dict>
+		<key>fire</key>
+		<dict>
+			<key>wood</key>
+			<integer>2</integer>
+			<key>stone</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>cook1</key>
+	<dict>
+		<key>food2</key>
+		<dict>
+			<key>food1</key>
+			<integer>1</integer>
+			<key>water</key>
+			<integer>2</integer>
+		</dict>
+		<key>food4</key>
+		<dict>
+			<key>food3</key>
+			<integer>1</integer>
+			<key>water</key>
+			<integer>3</integer>
+		</dict>
+		<key>cook2</key>
+		<dict>
+			<key>cook1</key>
+			<integer>1</integer>
+			<key>wood</key>
+			<integer>3</integer>
+			<key>stone</key>
+			<integer>3</integer>
+		</dict>
+			
+	</dict>
+	<key>cook2</key>
+	<dict>
+		<key>food2</key>
+		<dict>
+			<key>food1</key>
+			<integer>1</integer>
+			<key>water</key>
+			<integer>2</integer>
+		</dict>
+		<key>food4</key>
+		<dict>
+			<key>food3</key>
+			<integer>1</integer>
+			<key>water</key>
+			<integer>2</integer>
+		</dict>
+		<key>food5</key>
+		<dict>
+			<key>food1</key>
+			<integer>2</integer>
+			<key>food3</key>
+			<integer>2</integer>
+			<key>water</key>
+			<integer>8</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

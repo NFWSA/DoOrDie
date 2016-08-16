@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\GameScene">
+      <UniqueIdentifier>{c66f0e2d-00b7-407e-a82a-dbc3656d65af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\GameScene\Role">
+      <UniqueIdentifier>{df8c9b58-12e3-4755-a259-fdd1398d88f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\GameScene\Module">
+      <UniqueIdentifier>{88903d81-aa7c-405e-8508-c12a7f997e4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CreditScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelpScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LauncherScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SaveSelectScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SplashScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene\SurvivalScene.cpp">
+      <Filter>src\GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene\Role\Player.cpp">
+      <Filter>src\GameScene\Role</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene\ExploreScene.cpp">
+      <Filter>src\GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene\Module\Item.cpp">
+      <Filter>src\GameScene\Module</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene\Role\SaveValue.cpp">
+      <Filter>src\GameScene\Role</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene\Module\FlowCtrl.cpp">
+      <Filter>src\GameScene\Module</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene\Module\DialogLayer.cpp">
+      <Filter>src\GameScene\Module</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene\Module\ItemListLayer.cpp">
+      <Filter>src\GameScene\Module</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene\Module\MakeListLayer.cpp">
+      <Filter>src\GameScene\Module</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene\Module\GameOverLayer.cpp">
+      <Filter>src\GameScene\Module</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene\Role\Enemy.cpp">
+      <Filter>src\GameScene\Role</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CreditScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelpScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LauncherScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SaveSelectScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SplashScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene\SurvivalScene.h">
+      <Filter>src\GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene\Role\Player.h">
+      <Filter>src\GameScene\Role</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene\ExploreScene.h">
+      <Filter>src\GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene\TypeDefine.h">
+      <Filter>src\GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene\Module\Item.h">
+      <Filter>src\GameScene\Module</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene\Module\FlowCtrl.h">
+      <Filter>src\GameScene\Module</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene\Module\DialogLayer.h">
+      <Filter>src\GameScene\Module</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene\Module\ItemListLayer.h">
+      <Filter>src\GameScene\Module</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene\Module\MakeListLayer.h">
+      <Filter>src\GameScene\Module</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene\Module\GameOverLayer.h">
+      <Filter>src\GameScene\Module</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene\Role\Enemy.h">
+      <Filter>src\GameScene\Role</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene\Role\SaveValue.h">
+      <Filter>src\GameScene\Role</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\game.ico" />
+  </ItemGroup>
+</Project>

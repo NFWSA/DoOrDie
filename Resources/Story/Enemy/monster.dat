@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>monster</string>
+	<key>texture</key>
+	<string>Role/Enemy/monster.png</string>
+	
+	<key>damage</key>
+	<integer>40</integer>
+	<key>hp</key>
+	<integer>40</integer>
+	<key>speed</key>
+	<real>35.0</real>
+	<key>range</key>
+	<integer>12</integer>
+	
+	<key>ai</key>
+	<dict>
+		<key>value</key>
+		<integer>60</integer>
+	</dict>
+
+</dict>
+</plist>

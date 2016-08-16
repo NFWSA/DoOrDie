@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>speech0</key>
+	<dict>
+		<key>background</key>
+		<string>UI/Story/bg19-1.png</string>
+		<key>text0</key>
+		<string>暴雪不期而遇，屋外寒风凛冽，冷得让人不想动。</string>
+		<key>text1</key>
+		<string>晚上，在微弱的烛光下，GPS上刺眼的“北纬30°”。</string>
+		<key>text2</key>
+		<string>果然，遇上这鬼天气，也是情理之中。</string>
+	</dict>
+</dict>
+</plist>

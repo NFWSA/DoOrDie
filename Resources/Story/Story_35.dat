@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>speech0</key>
+	<dict>
+		<key>background</key>
+		<string>UI/Story/bg35-1.png</string>
+		<key>text0</key>
+		<string>我们做好准备后，来到山谷另一边。丘陵前......</string>
+		<key>text1</key>
+		<string>黄昏降临，天渐渐黑了下来，一轮圆月升起，某石丘上出现一个巨大的蓝色水晶。</string>
+		<key>text2</key>
+		<string>慢慢地，一个巨大的机器人浮现眼前，红色的小眼睛巡视着四周，不出意外地注意到了我们。</string>
+		<key>text3</key>
+		<string>在主角光环的笼罩下，我们打败了boss，并从他口中得知一些惊人的消息。</string>
+		<key>text4</key>
+		<string>偷摘作物，不劳而获的人，都在月圆之夜遭受惩罚，变成了肥料。</string>
+		<key>text5</key>
+		<string>果然，真正的幸福，要靠自己的双手才能得来。</string>
+		<key>text6</key>
+		<string>虽然不尽如人意，不过，谜题解开了。</string>
+		<key>text7</key>
+		<string>Do or Die_Lost Country——END</string>
+	</dict>
+</dict>
+</plist>
